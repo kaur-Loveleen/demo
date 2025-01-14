@@ -1,4 +1,1 @@
-hello 
-hi 
-bbye
-see you soon
+print("demo class")
